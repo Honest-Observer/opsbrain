@@ -1,0 +1,12 @@
+From: Amit Sharma (Plant Engineer)
+To: Maria Chen (Shift Supervisor)
+Date: 2025-11-15
+Subject: Shift handover - follow-ups
+
+Maria,
+
+Sam Reyes confirmed the P-101 cartridge seal upgrade from WO-1089 is holding up well one month in - no signs of the recurring failure pattern so far. Please keep logging vibration spot-checks anyway.
+
+Still no update on the B-12 relief valve V-045 certificate (WO-1102). Priya Nair asked that we prioritize this given it's a hard compliance item under REG-052 / REG-014.
+
+- Amit

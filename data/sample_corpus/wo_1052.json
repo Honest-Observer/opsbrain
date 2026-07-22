@@ -1,0 +1,9 @@
+{
+  "wo_number": "WO-1052",
+  "asset_tag": "P-101",
+  "failure_mode": "mechanical seal failure",
+  "status": "closed",
+  "opened_at": "2025-05-18",
+  "closed_at": "2025-05-20",
+  "description": "Second mechanical seal failure on Pump P-101 in three months. Raj Patel noted the same wear pattern as WO-1041 (scored seal faces, evidence of shaft runout). Alignment checked and found within tolerance this time, so root cause remains open. Seal replaced again. Flagged to Sam Reyes (Maintenance Lead) as a recurring failure pattern requiring root-cause investigation, not just repeat repair."
+}

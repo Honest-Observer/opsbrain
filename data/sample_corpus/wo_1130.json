@@ -1,0 +1,9 @@
+{
+  "wo_number": "WO-1130",
+  "asset_tag": "V-045",
+  "failure_mode": "set-pressure drift",
+  "status": "closed",
+  "opened_at": "2025-06-28",
+  "closed_at": "2025-06-30",
+  "description": "Routine check found Relief Valve V-045 (Boiler B-12) set pressure had drifted slightly outside tolerance. Valve removed, bench tested, reset, and reinstalled by an outside certified vendor. Certificate filed at the time; this is the last on-file certificate referenced in the Q4 inspection gap (WO-1102)."
+}

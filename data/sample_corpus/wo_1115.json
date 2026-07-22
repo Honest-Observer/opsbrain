@@ -1,0 +1,9 @@
+{
+  "wo_number": "WO-1115",
+  "asset_tag": "C-201",
+  "failure_mode": "valve plate wear",
+  "status": "closed",
+  "opened_at": "2025-09-10",
+  "closed_at": "2025-09-12",
+  "description": "Compressor C-201 showed reduced discharge pressure and audible knocking. Raj Patel inspected the valve plates and found wear consistent with normal service life; plates replaced and unit returned to service. No relation to the P-101 seal failure pattern."
+}

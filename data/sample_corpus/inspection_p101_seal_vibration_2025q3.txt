@@ -1,0 +1,7 @@
+Inspection Report
+Asset: Centrifugal Pump P-101
+Inspector: Tom Okafor
+Date: 2025-09-01
+
+Checklist item: Seal and vibration condition check following seal replacement under WO-1067.
+Result: PASS. New seal and bearings installed under WO-1067 show normal vibration signature (baseline re-established). No visible leakage at time of inspection. Noted continued monitoring recommended given the recurring seal failure history (WO-1041, WO-1052, WO-1067, Incident IR-07).

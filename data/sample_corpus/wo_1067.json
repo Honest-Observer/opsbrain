@@ -1,0 +1,9 @@
+{
+  "wo_number": "WO-1067",
+  "asset_tag": "P-101",
+  "failure_mode": "mechanical seal failure",
+  "status": "closed",
+  "opened_at": "2025-08-18",
+  "closed_at": "2025-08-22",
+  "description": "Third seal failure on Pump P-101, this time accompanied by bearing wear and a visible coolant leak at the seal housing (see Incident IR-07 for the associated incident report). Amit Sharma (Plant Engineer) requested vibration analysis; results showed elevated vibration consistent with cavitation, suggesting the pump may be operating away from its best efficiency point. Seal and bearings replaced. Recommend reviewing suction conditions and duty cycle per the OEM manual before the next failure."
+}

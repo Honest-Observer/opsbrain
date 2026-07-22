@@ -1,0 +1,12 @@
+From: Maria Chen (Night Shift Supervisor)
+To: Amit Sharma (Day Shift Plant Engineer)
+Date: 2025-11-02
+Subject: Shift handover - Unit 3 / Boiler House
+
+Hi Amit,
+
+Quiet night overall. Two items to track:
+1) Pump P-101 sounded slightly rougher than usual around 02:00 but vibration readings were within limits. Given the seal failure history on this pump (WO-1041, WO-1052, WO-1067, IR-07), Raj Patel will keep an eye on it this week rather than wait for the next scheduled round.
+2) Reminder that WO-1102 (Boiler B-12 relief valve V-045 test certificate) is still open - Tom Okafor flagged it during the Q4 inspection and it shouldn't slip past the next inspection window.
+
+- Maria

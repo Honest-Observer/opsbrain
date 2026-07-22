@@ -1,0 +1,9 @@
+{
+  "wo_number": "WO-1041",
+  "asset_tag": "P-101",
+  "failure_mode": "mechanical seal failure",
+  "status": "closed",
+  "opened_at": "2025-02-10",
+  "closed_at": "2025-02-12",
+  "description": "Pump P-101 reported excessive leakage at the mechanical seal during routine rounds. Technician Raj Patel isolated the pump per OSHA-105 lockout/tagout, removed the seal assembly, and found the seal faces scored and worn well before expected service life. Root cause suspected: misalignment inducing shaft runout. Seal replaced with OEM spec part; pump realigned and returned to service. See REG-022 for seal integrity reporting requirements."
+}

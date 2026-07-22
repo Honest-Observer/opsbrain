@@ -1,0 +1,7 @@
+tag,name,asset_type,criticality,location
+P-101,Centrifugal Pump P-101,pump,high,Unit 3 - Cooling Water Loop
+P-102,Centrifugal Pump P-102 (Standby),pump,medium,Unit 3 - Cooling Water Loop
+B-12,Package Boiler B-12,boiler,critical,Boiler House
+C-201,Reciprocating Compressor C-201,compressor,high,Utility Block
+V-045,Pressure Relief Valve V-045,valve,medium,Boiler House
+T-300,Condensate Storage Tank T-300,tank,low,Utility Yard

@@ -1,0 +1,9 @@
+{
+  "wo_number": "WO-1102",
+  "asset_tag": "B-12",
+  "failure_mode": "relief valve inspection followup",
+  "status": "open",
+  "opened_at": "2025-11-01",
+  "closed_at": null,
+  "description": "Follow-up work order opened after Inspector Tom Okafor could not locate a current bench-test certificate for Relief Valve V-045 on Boiler B-12 during the Q4 inspection round (see inspection_b12_relief_valve_2025q4). Required by REG-052 (Relief Valve Testing Frequency) and REG-014 (Boiler Pressure Vessel Inspection Code). Awaiting scheduling of bench test with certified vendor."
+}

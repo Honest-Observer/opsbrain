@@ -1,0 +1,79 @@
+flowchart TB
+    subgraph Input["Demo Corpus"]
+        A1[SOPs & OEM Manuals]
+        A2[Work Orders & Inspections]
+        A3[Incident Reports]
+        A4[Asset Registry CSV]
+        A5[Handover Notes]
+        A6[Regulatory Checklist]
+    end
+
+    subgraph Ingestion["Ingestion Pipeline"]
+        B1["Parsers\n(PDF / TXT / MD / CSV / XLSX / JSON / scanned-form)"]
+        B2["Normalizer\n(text + metadata)"]
+        B3["Chunker\n(char-tracked, ~250-400 tokens)"]
+    end
+
+    subgraph Extraction["Entity Extraction & Graph Builder"]
+        C1["Entity Extraction\n(asset tags, WO/IR/REG codes, dates, people)"]
+        C2["Relationship Builder\n(8 edge types: asset-doc, asset-WO, asset-incident,\nincident-regulation, asset-procedure, WO-failure_mode,\ninspection-compliance_gap, incident-incident)"]
+    end
+
+    subgraph Storage["Storage Layer"]
+        D1[("Documents & Chunks")]
+        D2[("Vector Index\n(local hash embedding + cosine,\nor pgvector)")]
+        D3[("Knowledge Graph Tables\n(entities + relationships)")]
+    end
+
+    subgraph Reasoning["Reasoning APIs (FastAPI)"]
+        E1["Semantic Search"]
+        E2["Graph Neighborhood"]
+        E3["Asset 360"]
+        E4["Copilot Q&A\n(cited, confidence-scored)"]
+        E5["Compliance Gap Detection"]
+        E6["Lessons-Learned Similarity"]
+    end
+
+    subgraph Frontend["Next.js Frontend"]
+        F1[Dashboard]
+        F2[Copilot]
+        F3["Asset 360 View"]
+        F4["Graph Explorer\n(React Flow)"]
+        F5["Compliance Board"]
+        F6["Lessons Learned Feed"]
+        F7["Evaluation Page"]
+    end
+
+    subgraph Eval["Evaluation Harness"]
+        G1["24 Benchmark Questions"]
+        G2["Retrieval Hit Rate / Citation Coverage /\nLatency / Entity Linkage Coverage"]
+    end
+
+    Input --> B1 --> B2 --> B3
+    B3 --> D1
+    B3 --> C1
+    C1 --> C2
+    C2 --> D3
+    D1 --> D2
+    D1 --> E1
+    D2 --> E1
+    D3 --> E2
+    D3 --> E5
+    D3 --> E6
+    E1 --> E4
+    D1 --> E3
+    D3 --> E3
+
+    E1 --> F2
+    E2 --> F4
+    E3 --> F3
+    E4 --> F2
+    E5 --> F5
+    E6 --> F6
+    E3 --> F1
+    E5 --> F1
+
+    G1 --> E4
+    E4 --> G2
+    E1 --> G2
+    G2 --> F7

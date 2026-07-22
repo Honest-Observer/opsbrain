@@ -1,0 +1,132 @@
+[
+  {
+    "filename": "sop_pump_seal_replacement.md",
+    "doc_type": "sop",
+    "title": "SOP - Centrifugal Pump Mechanical Seal Replacement"
+  },
+  {
+    "filename": "sop_boiler_startup_shutdown.md",
+    "doc_type": "sop",
+    "title": "SOP - Package Boiler Startup and Shutdown"
+  },
+  {
+    "filename": "sop_lockout_tagout.md",
+    "doc_type": "sop",
+    "title": "SOP - Lockout/Tagout for Rotating and Pressurized Equipment"
+  },
+  {
+    "filename": "manual_pump_p101_oem.pdf",
+    "doc_type": "manual",
+    "title": "OEM Manual Excerpt - Centrifugal Pump P-101"
+  },
+  {
+    "filename": "manual_boiler_b12_oem.pdf",
+    "doc_type": "manual",
+    "title": "OEM Manual Excerpt - Package Boiler B-12"
+  },
+  {
+    "filename": "wo_1041.json",
+    "doc_type": "work_order",
+    "title": "Work Order WO-1041 - P-101"
+  },
+  {
+    "filename": "wo_1052.json",
+    "doc_type": "work_order",
+    "title": "Work Order WO-1052 - P-101"
+  },
+  {
+    "filename": "wo_1067.json",
+    "doc_type": "work_order",
+    "title": "Work Order WO-1067 - P-101"
+  },
+  {
+    "filename": "wo_1089.json",
+    "doc_type": "work_order",
+    "title": "Work Order WO-1089 - P-101"
+  },
+  {
+    "filename": "wo_1102.json",
+    "doc_type": "work_order",
+    "title": "Work Order WO-1102 - B-12"
+  },
+  {
+    "filename": "wo_1115.json",
+    "doc_type": "work_order",
+    "title": "Work Order WO-1115 - C-201"
+  },
+  {
+    "filename": "wo_1130.json",
+    "doc_type": "work_order",
+    "title": "Work Order WO-1130 - V-045"
+  },
+  {
+    "filename": "wo_1144_p102_routine_lube.txt",
+    "doc_type": "work_order",
+    "title": "Work Order WO-1144 - P-102"
+  },
+  {
+    "filename": "inspection_b12_relief_valve_2025q4.txt",
+    "doc_type": "inspection",
+    "title": "Q4 2025 Inspection Report - Boiler B-12"
+  },
+  {
+    "filename": "inspection_p101_seal_vibration_2025q3.txt",
+    "doc_type": "inspection",
+    "title": "Q3 2025 Inspection Report - Pump P-101"
+  },
+  {
+    "filename": "inspection_c201_2025q4.scan.txt",
+    "doc_type": "inspection",
+    "title": "Q4 2025 Inspection Report - Compressor C-201 (scanned form)"
+  },
+  {
+    "filename": "incident_ir03_p101.md",
+    "doc_type": "incident",
+    "title": "IR-03 - Near-miss: seal weep observed on Pump P-101"
+  },
+  {
+    "filename": "incident_ir07_p101.md",
+    "doc_type": "incident",
+    "title": "IR-07 - Coolant leak from Pump P-101 mechanical seal failure"
+  },
+  {
+    "filename": "incident_ir09_b12.md",
+    "doc_type": "incident",
+    "title": "IR-09 - Pressure excursion near-miss on Boiler B-12"
+  },
+  {
+    "filename": "asset_registry.csv",
+    "doc_type": "asset_registry",
+    "title": "Plant Asset Registry"
+  },
+  {
+    "filename": "handover_2025_11_02.txt",
+    "doc_type": "handover_note",
+    "title": "Shift Handover Note - 2025-11-02 Night Shift"
+  },
+  {
+    "filename": "handover_2025_11_15.txt",
+    "doc_type": "handover_note",
+    "title": "Shift Handover Note - 2025-11-15 Day Shift"
+  },
+  {
+    "filename": "handover_2025_12_01.txt",
+    "doc_type": "handover_note",
+    "title": "Shift Handover Note - 2025-12-01 Night Shift"
+  },
+  {
+    "filename": "regulatory_checklist.csv",
+    "doc_type": "regulation",
+    "title": "Regulatory Checklist (Master)"
+  },
+  {
+    "filename": "regulatory_checklist_boiler.pdf",
+    "doc_type": "regulation",
+    "title": "Regulatory Checklist - Boiler House Focus"
+  },
+  {
+    "filename": "compliance_audit_checklist.xlsx",
+    "doc_type": "regulation",
+    "title": "Compliance Audit Checklist"
+  }
+]

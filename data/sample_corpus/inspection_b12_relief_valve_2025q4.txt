@@ -1,0 +1,11 @@
+Inspection Report
+Asset: Boiler B-12 (Package Boiler)
+Inspector: Tom Okafor
+Date: 2025-11-01
+
+Checklist item: Annual relief valve (V-045) bench-test certificate on file.
+Result: NOT RECORDED. No certificate for calendar year 2025 could be located in the maintenance file. The most recent certificate on file corresponds to WO-1130 (2025-06-30), which is a set-pressure drift correction, not the required annual test. Per REG-052 (Relief Valve Testing Frequency) and REG-014 (Boiler Pressure Vessel Inspection Code), this is a compliance gap.
+
+Recommendation: Open a follow-up work order to schedule and document a current bench test before the next boiler inspection window, and retain the vendor certificate on file. Follow-up work order WO-1102 opened same day.
+
+Additional checklist items (pass): pressure gauge calibration current, burner management system tested, low-water cutoff tested.

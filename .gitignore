@@ -1,0 +1,17 @@
+node_modules/
+.next/
+out/
+.venv/
+venv/
+__pycache__/
+*.pyc
+.env
+.env.local
+*.db
+*.sqlite3
+dist/
+build/
+.DS_Store
+
+# Runtime upload staging (created by the upload endpoint/tests)
+data/uploads/

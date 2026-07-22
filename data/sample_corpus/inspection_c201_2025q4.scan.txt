@@ -1,0 +1,8 @@
+[SIMULATED SCANNED FORM - OCR TRANSCRIPT]
+FORM: QUARTERLY EQUIPMENT INSPECTION
+ASSET TAG: C-201
+INSPECTOR (signature): Tom Okafor
+DATE: 2025-11-20
+CHECKLIST ITEM: General condition and valve plate check
+RESULT: PASS
+NOTES: Valve plates replaced under WO-1115 in September holding up well. No abnormal noise or vibration observed. No action required.

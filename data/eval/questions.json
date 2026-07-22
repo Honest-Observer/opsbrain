@@ -1,0 +1,296 @@
+[
+  {
+    "id": "4ae6012bc66f5568a8ce11b967bb4acf",
+    "question": "Why is Pump P-101 repeatedly failing?",
+    "expected_document_ids": [
+      "9d9875129955551ea8c48e5554ff6465",
+      "1f0cfd9ca493555e8b86e5793e66a30b",
+      "144841d7ae6355938ce593dd02f8654c"
+    ],
+    "expected_entity_ids": [
+      "69ce8c6a442559b398573bfebab4030b",
+      "dc04548fa70253cea414993df6801346",
+      "fb1f3a8884815ee5b134aa2bcd06c016"
+    ],
+    "expects_citation": true
+  },
+  {
+    "id": "54250afcb2d05797863a4d59746526c1",
+    "question": "What caused the coolant leak incident on Pump P-101?",
+    "expected_document_ids": [
+      "9d9875129955551ea8c48e5554ff6465"
+    ],
+    "expected_entity_ids": [
+      "69ce8c6a442559b398573bfebab4030b",
+      "dc04548fa70253cea414993df6801346"
+    ],
+    "expects_citation": true
+  },
+  {
+    "id": "308ce8116aa65bda960d764b466e8cc3",
+    "question": "Show compliance gaps affecting Boiler B-12.",
+    "expected_document_ids": [
+      "e62920055562536ca8275f4b44a45b28"
+    ],
+    "expected_entity_ids": [
+      "1e15f37889765d5c8f534a46aaee38e5",
+      "219efb4fea195f76b75909dd56dc50dc"
+    ],
+    "expects_citation": true
+  },
+  {
+    "id": "f96ca402529e5101a87b07f8d69a51e2",
+    "question": "What is the status of the relief valve V-045 test certificate?",
+    "expected_document_ids": [
+      "e62920055562536ca8275f4b44a45b28",
+      "ed032c5e830450ada1050c25bd448515"
+    ],
+    "expected_entity_ids": [
+      "b4a3dc9d563e5107ba4f096895768cff",
+      "0f59961402e05fac858284c54495c0d3"
+    ],
+    "expects_citation": true
+  },
+  {
+    "id": "605cd7590a03558c90dfbaab1995d0fb",
+    "question": "What lessons were learned from incident IR-03?",
+    "expected_document_ids": [
+      "3017945d20e55c359306ef7dde570774"
+    ],
+    "expected_entity_ids": [
+      "161d169859785eb8847f87d238ef0b8e",
+      "69ce8c6a442559b398573bfebab4030b"
+    ],
+    "expects_citation": true
+  },
+  {
+    "id": "097b7cdbcd1e54f4976563316be7f863",
+    "question": "Which work orders are related to Pump P-101 seal failures?",
+    "expected_document_ids": [
+      "0227ecc6f90e5831a1a57b3ee22531f6",
+      "144841d7ae6355938ce593dd02f8654c",
+      "1f0cfd9ca493555e8b86e5793e66a30b"
+    ],
+    "expected_entity_ids": [
+      "b0c0a65a7ecf5cf0be18e86d23f3f156",
+      "2156554ff9945de0accce1efbd5bb7b8",
+      "69ce8c6a442559b398573bfebab4030b"
+    ],
+    "expects_citation": true
+  },
+  {
+    "id": "b09a0b3983405aeaa73342886feca8f6",
+    "question": "What does the OEM manual say about Pump P-101 seal maintenance?",
+    "expected_document_ids": [
+      "f6659d1e8bd85ca180bec452bd93fb6c"
+    ],
+    "expected_entity_ids": [
+      "69ce8c6a442559b398573bfebab4030b"
+    ],
+    "expects_citation": true
+  },
+  {
+    "id": "0aec6fd914605e3f8909e78537778ed9",
+    "question": "What safety procedure applies before replacing a pump seal?",
+    "expected_document_ids": [
+      "c779984efe0d54238e88f0b2b25afe3d"
+    ],
+    "expected_entity_ids": [
+      "a11a3e0c3f0b511ab3d92ffdb77c3a40"
+    ],
+    "expects_citation": true
+  },
+  {
+    "id": "d43837a073055cd7b3755c38ea4a4e25",
+    "question": "What is the lockout/tagout procedure for rotating equipment?",
+    "expected_document_ids": [
+      "fcf11084f3575225b8930961b6a71716"
+    ],
+    "expected_entity_ids": [
+      "a11a3e0c3f0b511ab3d92ffdb77c3a40"
+    ],
+    "expects_citation": true
+  },
+  {
+    "id": "2fa9c6fc65d85e2aa99e2f50442f5e90",
+    "question": "What regulation governs boiler pressure vessel inspections?",
+    "expected_document_ids": [
+      "8c8e14a6388f50d8b6b823bc0797f6d2",
+      "d3f7b5a68bb2545bbfca7dbd43b68fd7"
+    ],
+    "expected_entity_ids": [
+      "c1482ab5be2c5fb6912eb39284878c05"
+    ],
+    "expects_citation": true
+  },
+  {
+    "id": "afc2b90cf2e45645901912ff92b75231",
+    "question": "What is the corrective action for the B-12 relief valve compliance gap?",
+    "expected_document_ids": [
+      "e62920055562536ca8275f4b44a45b28"
+    ],
+    "expected_entity_ids": [
+      "1e15f37889765d5c8f534a46aaee38e5",
+      "0f59961402e05fac858284c54495c0d3"
+    ],
+    "expects_citation": true
+  },
+  {
+    "id": "f0c071d658bf5ab2903acd53ba72cd3b",
+    "question": "Who inspected Boiler B-12 in Q4 2025?",
+    "expected_document_ids": [
+      "e62920055562536ca8275f4b44a45b28"
+    ],
+    "expected_entity_ids": [
+      "1e15f37889765d5c8f534a46aaee38e5"
+    ],
+    "expects_citation": true
+  },
+  {
+    "id": "5e18bc3ae60354a8a105e65258d57425",
+    "question": "What near-miss incidents have occurred on Pump P-101?",
+    "expected_document_ids": [
+      "3017945d20e55c359306ef7dde570774"
+    ],
+    "expected_entity_ids": [
+      "161d169859785eb8847f87d238ef0b8e",
+      "69ce8c6a442559b398573bfebab4030b"
+    ],
+    "expects_citation": true
+  },
+  {
+    "id": "c807c267285c583a84bfecb942135382",
+    "question": "What is the recommended seal upgrade for pumps with recurring failures?",
+    "expected_document_ids": [
+      "f6659d1e8bd85ca180bec452bd93fb6c",
+      "3b2be263233d510981d13088ffde9fa0"
+    ],
+    "expected_entity_ids": [
+      "7025f658a868508da585a26a05bfa16b",
+      "69ce8c6a442559b398573bfebab4030b"
+    ],
+    "expects_citation": true
+  },
+  {
+    "id": "78d9f75cf1cf5ae28896d7af155bb76e",
+    "question": "What happened during work order WO-1067?",
+    "expected_document_ids": [
+      "1f0cfd9ca493555e8b86e5793e66a30b"
+    ],
+    "expected_entity_ids": [
+      "fb1f3a8884815ee5b134aa2bcd06c016",
+      "69ce8c6a442559b398573bfebab4030b"
+    ],
+    "expects_citation": true
+  },
+  {
+    "id": "6654b823c3dd5ae09f4805c46aa2870c",
+    "question": "What is Compressor C-201's maintenance history?",
+    "expected_document_ids": [
+      "03f5fc0bc7395bffa9a1be940c1122d4",
+      "2494798acf94575098af77e93a3541e2"
+    ],
+    "expected_entity_ids": [
+      "272e4bb3a8e5520e8d49aa1f91367012",
+      "d96fde5a23405ec1bcf5707db0c00d6d"
+    ],
+    "expects_citation": true
+  },
+  {
+    "id": "69e6fa0fefa158a1aae7a75112ee5338",
+    "question": "What issue was found with Relief Valve V-045 set pressure?",
+    "expected_document_ids": [
+      "4ccd7a47e72e5328a7be50f673e9fac0"
+    ],
+    "expected_entity_ids": [
+      "b4a3dc9d563e5107ba4f096895768cff",
+      "375a7462eb235ccd8298f19444a8a288"
+    ],
+    "expects_citation": true
+  },
+  {
+    "id": "ffac1a45c719593e8656b6224a842f60",
+    "question": "What did the shift handover notes say about Pump P-101 vibration?",
+    "expected_document_ids": [
+      "57e63c59e17a59b1a785d41d8ed38e97"
+    ],
+    "expected_entity_ids": [
+      "69ce8c6a442559b398573bfebab4030b"
+    ],
+    "expects_citation": true
+  },
+  {
+    "id": "b024d37ff1975d389e52cad497d9e7cb",
+    "question": "What assets are registered in the plant asset registry?",
+    "expected_document_ids": [
+      "e4cfb2b48b09548b823e831d013abc24"
+    ],
+    "expected_entity_ids": [
+      "69ce8c6a442559b398573bfebab4030b",
+      "1e15f37889765d5c8f534a46aaee38e5"
+    ],
+    "expects_citation": true
+  },
+  {
+    "id": "f9e0364e6dfc588483449344cd885a6c",
+    "question": "What PPE regulation applies to maintenance work?",
+    "expected_document_ids": [
+      "fcf11084f3575225b8930961b6a71716",
+      "d3f7b5a68bb2545bbfca7dbd43b68fd7"
+    ],
+    "expected_entity_ids": [
+      "d6491498f6135ddeb61230882e9914a1"
+    ],
+    "expects_citation": true
+  },
+  {
+    "id": "eb56bed8785d51edb3d8c33d21cb2648",
+    "question": "What emergency shutdown testing regulation applies to Boiler B-12?",
+    "expected_document_ids": [
+      "bce0c89403f553ddbbd9c3458eb91922",
+      "8c8e14a6388f50d8b6b823bc0797f6d2"
+    ],
+    "expected_entity_ids": [
+      "7a06819985e05d46997e2226c3f075e3",
+      "1e15f37889765d5c8f534a46aaee38e5"
+    ],
+    "expects_citation": true
+  },
+  {
+    "id": "c0a526e25b125c88ae7e95011ac1b782",
+    "question": "What pressure excursion incident occurred on Boiler B-12?",
+    "expected_document_ids": [
+      "bce0c89403f553ddbbd9c3458eb91922"
+    ],
+    "expected_entity_ids": [
+      "b82a80f2c1b75640bfd153cf38f11bf8",
+      "1e15f37889765d5c8f534a46aaee38e5"
+    ],
+    "expects_citation": true
+  },
+  {
+    "id": "c013f24ff4e959b7929c20ccccb6b15b",
+    "question": "Which incidents are similar to Incident IR-07 for lessons-learned purposes?",
+    "expected_document_ids": [
+      "3017945d20e55c359306ef7dde570774",
+      "9d9875129955551ea8c48e5554ff6465"
+    ],
+    "expected_entity_ids": [
+      "161d169859785eb8847f87d238ef0b8e",
+      "dc04548fa70253cea414993df6801346"
+    ],
+    "expects_citation": true
+  },
+  {
+    "id": "b21edcd33c405cee8b93422469e6ca84",
+    "question": "What is standby Pump P-102's relationship to Pump P-101?",
+    "expected_document_ids": [
+      "30fd858f32eb5087a4069f5f93b4fe21"
+    ],
+    "expected_entity_ids": [
+      "957351f9231c5e01b9c13eba11e02399",
+      "69ce8c6a442559b398573bfebab4030b"
+    ],
+    "expects_citation": true
+  }
+]

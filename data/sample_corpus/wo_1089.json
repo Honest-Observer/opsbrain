@@ -1,0 +1,9 @@
+{
+  "wo_number": "WO-1089",
+  "asset_tag": "P-101",
+  "failure_mode": "preventive seal upgrade",
+  "status": "closed",
+  "opened_at": "2025-10-01",
+  "closed_at": "2025-10-05",
+  "description": "Preventive action following the repeated seal failures on Pump P-101 (WO-1041, WO-1052, WO-1067, Incident IR-07). Upgraded to an OEM-recommended cartridge-style mechanical seal with improved tolerance to minor misalignment and cavitation-induced vibration. Sam Reyes signed off on the upgrade as the corrective action closing out the recurring seal failure pattern on P-101."
+}
